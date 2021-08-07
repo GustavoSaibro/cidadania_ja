@@ -5,7 +5,7 @@
 * [Tecnologias](#tecnologias)
 * [Setup](#setup)
 * [Funcionalidades](#Funcionalidades)
-* [Setup](#setup)
+* [Inspiração](#Inspiração)
 
 
 ## Tecnologias
