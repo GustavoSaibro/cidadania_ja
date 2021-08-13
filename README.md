@@ -16,7 +16,7 @@ Esse projeto foi criado usando:
 * React: 17.0.2
 
 ## Setup
-Tenha a versão do python 3.8 instalada em seu sistema.
+Tenha a versão do python 3.8 e a versão v10.19.0 do node instalada em seu sistema.
 Para rodar este projeto:
 
 ```bash
