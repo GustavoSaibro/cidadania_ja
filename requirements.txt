@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+
+# For databeses
+sqlalchemy
+psycopg2
+
+# For env var
+python-dotenv
+
+# form email validation
+pydantic[email]
