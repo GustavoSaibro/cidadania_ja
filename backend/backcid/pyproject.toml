@@ -13,6 +13,9 @@ uvicorn = "^0.17.6"
 SQLAlchemy = "^1.4.36"
 python-dotenv = "^0.20.0"
 pydantic = {extras = ["email"], version = "^1.9.1"}
+decouple = "^0.0.7"
+psycopg2-binary = "^2.9.3"
+python-decouple = "^3.6"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"

@@ -1,4 +1,4 @@
 from django.db import models
-from .model.candidate import Candidate
+from .model.Candidate import Candidate
 # Create your models here.
 
