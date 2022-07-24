@@ -29,8 +29,7 @@ def candidates(request, format=None):
 
 
 @api_view(['GET', 'PUT', 'DELETE'])
-def candidate(request, id,format=None):  
-  
+def candidate(request, id,format=None):    
     try:
         candidate = Candidate.objects.get(pk=id)
 
